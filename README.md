@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="strawberry.jpg" alt="Sleep Health ML Banner" width="500" style="border-radius:10px;">
+</p>
+
 # Strawberry_Ripeness_Classification_CNN
 
 ## Project Overview
