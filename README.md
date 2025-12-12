@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="strawberry.jpg" alt="Sleep Health ML Banner" width="500" style="border-radius:10px;">
+  <img src="strawberry.jpg" alt="Strawberry_Ripeness_Classification_CNN" width="500" style="border-radius:10px;">
 </p>
 
 # Strawberry_Ripeness_Classification_CNN
